@@ -5,12 +5,12 @@
 
 <h3 align="left">Portfolio</h3>
 <p align="left">
-  Criador de mapas para jogos de tabuleiro
+  ➡️ Criador de mapas para jogos de tabuleiro
 <a href="https://github.com/renanfranca93/criadordemapas" target="blank">
-  Código
+  :page_facing_up: Código
 </a>
 <a href="https://renanfranca93.github.io/criadordemapas" target="blank">
-  Visualizar
+  :computer: Visualizar
 </a>
 </p>
 
@@ -23,7 +23,7 @@
 <h3 align="left">Contato</h3>
 <p><img width="15px" style="display:inline" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/renanfranca93/</p>
 
-<p>:email:&nbsp;&nbsp;&nbsp;<a href="mailto:renanfranca.93@gmail.com">renanfranca.93@gmail.com</a> </p>
+<p>:envelope:&nbsp;&nbsp;&nbsp;<a href="mailto:renanfranca.93@gmail.com">renanfranca.93@gmail.com</a> </p>
 
 <p>:iphone:&nbsp;&nbsp;&nbsp;(19) 98937-6418 </p>
 
