@@ -8,7 +8,7 @@
 <p align="left">
   ➡️ Site e sistema para professores particulares 
 
-<a href="https://renanfranca93.github.io/criadordemapas" target="blank">
+<a href="https://classhelper.com.br/" target="blank">
   :computer: Visualizar
 </a>
   </br>Tecnologias: React, Node e Amazon AWS
@@ -19,11 +19,25 @@
 <a href="https://github.com/renanfranca93/criadordemapas" target="blank">
   :page_facing_up: Código
 </a>
-<a href="https://classhelper.com.br" target="blank">
+<a href="https://renanfranca93.github.io/criadordemapas" target="blank">
   :computer: Visualizar
 </a>
   </br>Tecnologias: JS Vanilla, HTML e CSS
 </p>
+
+
+<p align="left">
+  ➡️ Pokedex
+<a href="https://github.com/renanfranca93/pokewiki" target="blank">
+  :page_facing_up: Código
+</a>
+<a href="https://renanfranca93.github.io/pokewiki" target="blank">
+  :computer: Visualizar
+</a>
+  </br>Tecnologias: JS Vanilla, HTML e CSS
+</p>
+
+
 
 <p align="left">
   ➡️ Lista de tarefas simples
@@ -34,6 +48,34 @@
   :computer: Visualizar
 </a>
   </br>Tecnologias: JS Vanilla, HTML e CSS
+</p>
+
+
+<p align="left">
+  ➡️ Site comercial 
+
+<a href="https://powertecrastreadores.com.br/" target="blank">
+  :computer: Visualizar
+</a>
+  </br>Tecnologias: Wordpress
+</p>
+
+
+<p align="left">
+  ➡️ Marketplace
+<a href="https://github.com/renanfranca93/marketplace_curso" target="blank">
+  :page_facing_up: Código
+</a>
+  </br>Tecnologias: PHP Laravel
+</p>
+
+
+<p align="left">
+  ➡️ Clone Twitter
+<a href="https://github.com/renanfranca93/twitter_clone" target="blank">
+  :page_facing_up: Código
+</a>
+  </br>Tecnologias: PHP Laravel
 </p>
 
 
