@@ -6,10 +6,10 @@
 <h3 align="left">Portfolio</h3>
 
 <p align="left">
-  ➡️ Site e sistema para professores particulares 
+  ➡️ ClassHelper - Site e sistema para professores particulares 
   </br>:wrench: React, Node e Amazon AWS
   </br>
-  <a href="https://classhelper.com.br/" target="blank">
+  <a href="https://classhelper.com.br/" target="new">
     :computer: Visualizar
   </a>
 </p>
@@ -55,7 +55,7 @@
 
 
 <p align="left">
-  ➡️ Site comercial 
+  ➡️ PowerTec Rastreadores - Site comercial 
   </br>:wrench: Wordpress
   </br>
   <a href="https://powertecrastreadores.com.br/" target="blank">
