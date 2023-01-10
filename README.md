@@ -21,9 +21,9 @@
 
 
 <p><img width="15px" style="display:inline" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">&nbsp;&nbsp;&nbsp;https://www.linkedin.com/in/renanfranca93/</p>
-</br>
+
 <p>:email:&nbsp;&nbsp;&nbsp;<a href="mailto:renanfranca.93@gmail.com">renanfranca.93@gmail.com</a> </p>
-</br>
+
 <p>:iphone:&nbsp;&nbsp;&nbsp;(19) 98937-6418 </p>
 
 
