@@ -7,7 +7,7 @@
 
 <p align="left">
   ➡️ Site e sistema para professores particulares 
-  </br>Tecnologias: React, Node e Amazon AWS
+  </br>:wrench: React, Node e Amazon AWS
   </br>
   <a href="https://classhelper.com.br/" target="blank">
     :computer: Visualizar
@@ -16,7 +16,7 @@
 
 <p align="left">
   ➡️ Criador de mapas para jogos de tabuleiro
-  </br>Tecnologias: JS Vanilla, HTML e CSS
+  </br>:wrench: JS Vanilla, HTML e CSS
   </br>
   <a href="https://github.com/renanfranca93/criadordemapas" target="blank">
     :page_facing_up: Código
@@ -29,7 +29,7 @@
 
 <p align="left">
   ➡️ Pokedex
-  </br>Tecnologias: JS Vanilla, HTML e CSS
+  </br>:wrench: JS Vanilla, HTML e CSS
   </br>
   <a href="https://github.com/renanfranca93/pokewiki" target="blank">
     :page_facing_up: Código
@@ -43,7 +43,7 @@
 
 <p align="left">
   ➡️ Lista de tarefas simples
-  </br>Tecnologias: JS Vanilla, HTML e CSS
+  </br>:wrench: JS Vanilla, HTML e CSS
   </br>
   <a href="https://github.com/renanfranca93/lista-tarefas-javascript" target="blank">
     :page_facing_up: Código
@@ -56,7 +56,7 @@
 
 <p align="left">
   ➡️ Site comercial 
-  </br>Tecnologias: Wordpress
+  </br>:wrench: Wordpress
   </br>
   <a href="https://powertecrastreadores.com.br/" target="blank">
     :computer: Visualizar
@@ -66,7 +66,7 @@
 
 <p align="left">
   ➡️ Marketplace
-  </br>Tecnologias: PHP Laravel
+  </br>:wrench: PHP Laravel
   </br>
   <a href="https://github.com/renanfranca93/marketplace_curso" target="blank">
     :page_facing_up: Código
@@ -76,7 +76,7 @@
 
 <p align="left">
   ➡️ Clone Twitter
-  </br>Tecnologias: PHP Laravel
+  </br>:wrench: PHP Laravel
   </br>
   <a href="https://github.com/renanfranca93/twitter_clone" target="blank">
     :page_facing_up: Código
