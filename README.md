@@ -13,6 +13,6 @@
           
 </br></br>     
 
-:email: rgf.work@outlook.com
+:email: renanfranca.93@gmail.com
 </br>
 :iphone: (19) 98937-6418
