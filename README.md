@@ -7,7 +7,6 @@
 
 <p align="left">
   ➡️ Site e sistema para professores particulares 
-
   </br>Tecnologias: React, Node e Amazon AWS
   </br>
   <a href="https://classhelper.com.br/" target="blank">
@@ -17,7 +16,6 @@
 
 <p align="left">
   ➡️ Criador de mapas para jogos de tabuleiro
-
   </br>Tecnologias: JS Vanilla, HTML e CSS
   </br>
   <a href="https://github.com/renanfranca93/criadordemapas" target="blank">
@@ -31,7 +29,6 @@
 
 <p align="left">
   ➡️ Pokedex
-
   </br>Tecnologias: JS Vanilla, HTML e CSS
   </br>
   <a href="https://github.com/renanfranca93/pokewiki" target="blank">
@@ -46,7 +43,6 @@
 
 <p align="left">
   ➡️ Lista de tarefas simples
-
   </br>Tecnologias: JS Vanilla, HTML e CSS
   </br>
   <a href="https://github.com/renanfranca93/lista-tarefas-javascript" target="blank">
@@ -60,8 +56,6 @@
 
 <p align="left">
   ➡️ Site comercial 
-
-
   </br>Tecnologias: Wordpress
   </br>
   <a href="https://powertecrastreadores.com.br/" target="blank">
@@ -72,7 +66,6 @@
 
 <p align="left">
   ➡️ Marketplace
-
   </br>Tecnologias: PHP Laravel
   </br>
   <a href="https://github.com/renanfranca93/marketplace_curso" target="blank">
@@ -83,7 +76,6 @@
 
 <p align="left">
   ➡️ Clone Twitter
-
   </br>Tecnologias: PHP Laravel
   </br>
   <a href="https://github.com/renanfranca93/twitter_clone" target="blank">
