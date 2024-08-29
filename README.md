@@ -25,12 +25,11 @@
   </br>
   <a href="https://github.com/renanfranca93/criadordemapas" target="_blank">
     :page_facing_up: Código
-  </a>
+  </a> &nbsp;
   <a href="https://renanfranca93.github.io/criadordemapas" target="_blank">
     :computer: Visualizar
   </a>
-  </a>
-    <a href="https://youtu.be/OsPyMKImBco?si=_Ur7E_Xy2W1MyLZn&t=122" target="_new">
+  <a href="https://youtu.be/OsPyMKImBco?si=_Ur7E_Xy2W1MyLZn&t=34" target="_new">
     🎥: Vídeo
   </a>
 </p>
@@ -41,8 +40,8 @@
   </br>
   <a href="https://haodeapps.net/demo-combatetatico" target="_blank">
     :computer: Visualizar
-  </a>
-    <a href="https://youtu.be/OsPyMKImBco?si=_Ur7E_Xy2W1MyLZn&t=34" target="_blank">
+  </a> &nbsp;
+    <a href="https://youtu.be/OsPyMKImBco?si=_Ur7E_Xy2W1MyLZn&t=122" target="_blank">
     🎥: Vídeo
   </a>
 </p>
