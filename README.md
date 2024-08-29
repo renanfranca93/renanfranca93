@@ -30,7 +30,7 @@
     :computer: Visualizar
   </a>
   <a href="https://youtu.be/OsPyMKImBco?si=_Ur7E_Xy2W1MyLZn&t=34" target="_new">
-    🎥: Vídeo
+    🎥 Vídeo
   </a>
 </p>
 
@@ -42,7 +42,7 @@
     :computer: Visualizar
   </a> &nbsp;
     <a href="https://youtu.be/OsPyMKImBco?si=_Ur7E_Xy2W1MyLZn&t=122" target="_blank">
-    🎥: Vídeo
+    🎥 Vídeo
   </a>
 </p>
 
@@ -54,7 +54,7 @@
   </br>
   <a href="https://github.com/renanfranca93/pokewiki" target="_blank">
     :page_facing_up: Código
-  </a>
+  </a>&nbsp;
   <a href="https://renanfranca93.github.io/pokewiki" target="_blank">
     :computer: Visualizar
   </a>
@@ -68,7 +68,7 @@
   </br>
   <a href="https://github.com/renanfranca93/lista-tarefas-javascript" target="_blank">
     :page_facing_up: Código
-  </a>
+  </a>&nbsp;
   <a href="https://renanfranca93.github.io/lista-tarefas-javascript" target="_blank">
     :computer: Visualizar
   </a>
