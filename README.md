@@ -30,7 +30,7 @@
     :computer: Visualizar
   </a>
   </a>
-    <a href="https://youtu.be/OsPyMKImBco?si=_Ur7E_Xy2W1MyLZn&t=122" target="_blank">
+    <a href="https://youtu.be/OsPyMKImBco?si=_Ur7E_Xy2W1MyLZn&t=122" target="_new">
     🎥: Vídeo
   </a>
 </p>
