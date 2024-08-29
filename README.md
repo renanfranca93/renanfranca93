@@ -28,7 +28,7 @@
   </a> &nbsp;
   <a href="https://renanfranca93.github.io/criadordemapas" target="_blank">
     :computer: Visualizar
-  </a>
+  </a>&nbsp;
   <a href="https://youtu.be/OsPyMKImBco?si=_Ur7E_Xy2W1MyLZn&t=34" target="_new">
     🎥 Vídeo
   </a>
