@@ -11,7 +11,7 @@
 <h3 align="left">Portfolio</h3>
 
 <p align="left">
-  ➡️ ClassHelper - Site e sistema para professores particulares 
+  ➡️ ClassHelper - Site e sistema para professores particulares | Website and system for private tutors
   </br>:wrench: React, Node e Amazon AWS
   </br>
   <a href="https://classhelper.com.br/" target="new">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  ➡️ Criador de mapas para jogos de tabuleiro
+  ➡️ Criador de mapas para jogos de tabuleiro | Board game map creator
   </br>:wrench: JS Vanilla, HTML e CSS
   </br>
   <a href="https://github.com/renanfranca93/criadordemapas" target="blank">
@@ -47,7 +47,7 @@
 
 
 <p align="left">
-  ➡️ Lista de tarefas simples
+  ➡️ Lista de tarefas simples | Simple To-do
   </br>:wrench: JS Vanilla, HTML e CSS
   </br>
   <a href="https://github.com/renanfranca93/lista-tarefas-javascript" target="blank">
@@ -60,7 +60,7 @@
 
 
 <p align="left">
-  ➡️ PowerTec Rastreadores - Site comercial 
+  ➡️ PowerTec Rastreadores - Website
   </br>:wrench: Wordpress
   </br>
   <a href="https://powertecrastreadores.com.br/" target="blank">
